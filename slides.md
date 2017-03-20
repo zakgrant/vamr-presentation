@@ -350,6 +350,16 @@ https://zakgrant.com
 
 ----
 
+## This Presentation
+</br>
+
+![heading](./assets/svg/find.svg)
+</br>
+</br>
+https://zakgrant.github.io/vamr-presentation
+
+----
+
 ## Credits
 
 </br>
@@ -370,8 +380,8 @@ https://zakgrant.com
 ##### Icons contd...
 
 * Plus by Zaff Studio from the Noun Project
-* virtual reality headset by NOPIXEL from the Noun Project
-* eye device by David Carrero from the Noun Project
+* Virtual reality headset by NOPIXEL from the Noun Project
+* Eye device by David Carrero from the Noun Project
 * HoloLens by Laura Hernández from the Noun Project
 * Smartphone by Royyan Wijaya from the Noun Project
 
@@ -379,10 +389,10 @@ https://zakgrant.com
 
 ##### Icons contd...
 
-* bullet list by Designify.me from the Noun Project
-* profile by mikicon from the Noun Project
-* thank you by Gan Khoon Lay from the Noun Project
-* like by ✦ Shmidt Sergey ✦ from the Noun Project
+* Bullet list by Designify.me from the Noun Project
+* Profile by mikicon from the Noun Project
+* Thank you by Gan Khoon Lay from the Noun Project
+* Like by ✦ Shmidt Sergey ✦ from the Noun Project
 * Medal by logan from the Noun Project
 
 ----
@@ -390,7 +400,7 @@ https://zakgrant.com
 ##### Icons contd...
 
 * Resume by Nathan Gathright from the Noun Project
-* internet of things by Peter Borges from the Noun Project
+* Internet of things by Peter Borges from the Noun Project
 * Megaphone by unlimicon from the Noun Project
 * Money Bag by Loudoun Design Co. from the Noun Project
 * Globe by iconoci from the Noun Project
@@ -399,8 +409,8 @@ https://zakgrant.com
 
 ##### Icons contd...
 
-* interactive screen by Aneeque Ahmed from the Noun Project
-* agenda by Aneeque Ahmed from the Noun Project
+* Interactive screen by Aneeque Ahmed from the Noun Project
+* Agenda by Aneeque Ahmed from the Noun Project
 * Handshake by romzicon from the Noun Project
 * Presenter by Oksana Latysheva from the Noun Project
 * Philips Hue Bloom by Richard Slater from the Noun Project
@@ -411,12 +421,13 @@ https://zakgrant.com
 
 * Philips Hue Hub V2 by Richard Slater from the Noun Project
 * HoloLens by Laura Hernández from the Noun Project
-* cardboard vr by Jaya Kiran Reddy from the Noun Project
+* Cardboard vr by Jaya Kiran Reddy from the Noun Project
 * Shark Face by Iconic from the Noun Project
-* application by Nancy  from the Noun Project
+* Application by Nancy  from the Noun Project
 
 ----
 
 ##### Icons contd...
 
 * Wind Up Key by Nina Geometrieva from the Noun Project
+* Server search by Deepz from the Noun Project
