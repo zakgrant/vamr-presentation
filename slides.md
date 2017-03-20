@@ -253,6 +253,15 @@
 
 ----
 
+### Some guiding questions...
+
+1. Can you introduce some visual aspect to your concept
+1. What information do you need to relay to a end user
+1. Can an end user control an aspect of your concept using a reality
+1. How could a reality enhance the user experience of your concept
+
+----
+
 ### Present how **you** have used a reality in your IOT concept
 
 </br>
