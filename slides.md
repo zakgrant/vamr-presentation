@@ -138,7 +138,7 @@
 | :-------- | :---------------- |
 | <font color="#b1e84c">**Retail**</font> | Lego Store Product Explorer</br></br>Clothes Shopping |
 | <font color="#b1e84c">**Entertainment**</font> | Pokemon Go</br></br>Snapchat Lenses|
-| <font color="#b1e84c">**Data & Analytics**</font> |  Patients stats in surgery</br></br>TODO|
+| <font color="#b1e84c">**Data & Analytics**</font> |  Patients stats in surgery</br></br>Stock Broker |
 
 ---
 
@@ -254,11 +254,11 @@
 ----
 
 ### Some guiding questions...
-
-1. Can you introduce some visual aspect to your concept
-1. What information do you need to relay to a end user
-1. Can an end user control an aspect of your concept using a reality
-1. How could a reality enhance the user experience of your concept
+</br>
+1. Can you introduce some visual aspect to your concept</br></br>
+1. What information do you need to relay to a end user</br></br>
+1. Can an end user control an aspect of your concept using a reality</br></br>
+1. How could a reality enhance the user experience of your concept</br></br>
 
 ----
 
