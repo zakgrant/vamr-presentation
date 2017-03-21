@@ -1,7 +1,7 @@
 # vamr-presentation
 
 ## Perquisites
-* nodenv
+1. nodenv
 
 ## Install version of node dependant on .node-version
 
